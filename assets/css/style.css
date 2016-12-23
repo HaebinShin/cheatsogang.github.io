@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
 html, body {
-  font-family: -apple-system 'Noto Sans KR', sans-serif !important;
+  font-family: -apple-system,BlinkMacSystemFont, 'Noto Sans KR', sans-serif !important
 }
 .loader {
   margin: 0 auto;
